@@ -1,4 +1,4 @@
-## FACTORIAL CALCULATION
+# FACTORIAL CALCULATION
 
 It takes an integer as an input and print its factorial value.
 
@@ -8,7 +8,7 @@ It takes an integer as an input and print its factorial value.
 ## How to use it?
 Input the integer value and factorial of the number is printed.
 
-# Web link for the python package uploaded on  pypi.org 
+## Web link for the python package uploaded on  pypi.org 
 https://pypi.org/project/TOPSIS-Simranjit-102216033/0.0.1/
 
 
