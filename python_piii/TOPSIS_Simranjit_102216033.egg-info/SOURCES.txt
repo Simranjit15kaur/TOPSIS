@@ -1,0 +1,8 @@
+LICENSE.txt
+README.md
+setup.py
+TOPSIS-Simranjit-102216033/__init__.py
+TOPSIS_Simranjit_102216033.egg-info/PKG-INFO
+TOPSIS_Simranjit_102216033.egg-info/SOURCES.txt
+TOPSIS_Simranjit_102216033.egg-info/dependency_links.txt
+TOPSIS_Simranjit_102216033.egg-info/top_level.txt
